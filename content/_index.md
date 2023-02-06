@@ -5,7 +5,6 @@ date: 2022-10-24
 type: landing
 
 sections:
-
   - block: about.avatar
     id: about
     content:
@@ -18,15 +17,15 @@ sections:
       title: Skills
       items:
         - name: R
-          description: 90%
+          description: 100%
           icon: r-project
           icon_pack: fab
         - name: Statistics
           description: 100%
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 10%
+        - name: Pythyon
+          description: 70%
           icon: camera-retro
           icon_pack: fas
   - block: experience
@@ -41,8 +40,8 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Senior Data Scientist
+          company: University of Pittsburgh - School of Medicine
           company_url: ''
           company_logo: org-gc
           location: California
