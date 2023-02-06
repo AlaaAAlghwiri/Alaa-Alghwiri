@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Alaa Alghwiri
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Alaa
+last_name: Alghwiri
 
 # Status emoji
 status:
@@ -14,34 +14,34 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Senior Data Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Pittsburgh
+    url: https://www.pitt.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Alaa Alghwiri, Ph.D. in Industrial Engineering, is a seasoned Data Scientist and Machine Learning Engineer with over 10 years of experience working in multi-disciplinary environments. With a strong background in industrial engineering and data analysis, Alaa Alghwiri has a proven track record of developing and implementing data-driven solutions to complex problems. Throughout his career, Alaa Alghwiri has demonstrated a deep understanding of machine learning algorithms and statistical modeling and has applied these skills to a variety of industries, including Healthcare, Energy, Higher Education, and Transportation. In addition to his technical expertise, Alaa Alghwiri is known for his ability to communicate effectively with stakeholders and collaborate with cross-functional teams. With a Ph.D. in Industrial Engineering and extensive experience in data science and machine learning, Alaa Alghwiri is well-equipped to lead projects and drive results in any organization.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Statistical Modeling
+  - Decision Making Under Uncertainty
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Industrial Engineering
+      institution: University of Akron
+      year: 2017
+    - course: Msc in Industrial Engineerin
+      institution: University of Akron
+      year: 2014
+    - course: BSc in Mechanical Engineering
+      institution: Jordan University of Science and Technology
+      year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
