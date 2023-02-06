@@ -22,7 +22,7 @@ organizations:
     url: https://www.pitt.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Alaa Alghwiri, Ph.D. in Industrial Engineering, is a seasoned Data Scientist and Machine Learning Engineer with over 10 years of experience working in multi-disciplinary environments. With a strong background in industrial engineering and data analysis, Alaa Alghwiri has a proven track record of developing and implementing data-driven solutions to complex problems. Throughout his career, Alaa Alghwiri has demonstrated a deep understanding of machine learning algorithms and statistical modeling and has applied these skills to a variety of industries, including Healthcare, Energy, Higher Education, and Transportation. In addition to his technical expertise, Alaa Alghwiri is known for his ability to communicate effectively with stakeholders and collaborate with cross-functional teams. With a Ph.D. in Industrial Engineering and extensive experience in data science and machine learning, Alaa Alghwiri is well-equipped to lead projects and drive results in any organization.
+bio:
 
 # Interests to show in About widget
 interests:
@@ -36,7 +36,7 @@ education:
     - course: PhD in Industrial Engineering
       institution: University of Akron
       year: 2017
-    - course: Msc in Industrial Engineerin
+    - course: Msc in Industrial Engineering
       institution: University of Akron
       year: 2014
     - course: BSc in Mechanical Engineering
@@ -79,6 +79,15 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+Alaa Alghwiri, Ph.D. in Industrial Engineering, is a seasoned Data Scientist and Machine Learning Engineer 
+with over 10 years of experience working in multi-disciplinary environments. With a strong background in 
+industrial engineering and data analysis, Alaa Alghwiri has a proven track record of developing and 
+implementing data-driven solutions to complex problems. Throughout his career, Alaa Alghwiri has demonstrated 
+a deep understanding of machine learning algorithms and statistical modeling and has applied these skills to 
+a variety of industries, including Healthcare, Energy, Higher Education, and Transportation. In addition to his 
+technical expertise, Alaa Alghwiri is known for his ability to communicate effectively with stakeholders and 
+collaborate with cross-functional teams. With a Ph.D. in Industrial Engineering and extensive experience in 
+data science and machine learning, Alaa Alghwiri is well-equipped to lead projects and drive results in any 
+organization.
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"}
